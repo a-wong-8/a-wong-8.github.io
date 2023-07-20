@@ -3710,7 +3710,7 @@ input, select, textarea {
 
 	.project-gifs li img {
 		border-radius: 5px;
-		margin-top: 15%;
+		margin-top: 7%;
 	}
 
 	.project-gifs li {
@@ -3719,6 +3719,12 @@ input, select, textarea {
 
 	.project-gifs p {
 		width: 510px;
+	}
+
+	.zillion-container {
+		align-content: center;
+		align-items: center;
+		display: flex;
 	}
 
 	.aa-gif-ul {
