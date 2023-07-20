@@ -3687,6 +3687,10 @@ input, select, textarea {
 			}
 
 	}
+
+	.edu-ul {
+		list-style: none;
+	}
 	
 	.grid-icons {
 		font-size: 60px;
