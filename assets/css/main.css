@@ -1252,7 +1252,7 @@ input, select, textarea {
 			height: 2px;
 			top: 50%;
 			left: -1.5rem;
-			background-color: rgba(255, 255, 255, 0.25);
+			/* background-color: rgba(255, 255, 255, 0.25); */
 		}
 
 		ul.grid-icons.connected > li:after {
@@ -1263,7 +1263,7 @@ input, select, textarea {
 			height: 1.5rem;
 			top: -1.5rem;
 			left: 50%;
-			background-color: rgba(255, 255, 255, 0.25);
+			/* background-color: rgba(255, 255, 255, 0.25); */
 		}
 
 		ul.grid-icons.two {
@@ -2273,7 +2273,7 @@ input, select, textarea {
 			-webkit-flex-direction: column;
 			-ms-flex-direction: column;
 			flex-direction: column;
-			width: 22rem;
+			width: 50rem;
 		}
 
 			.panel > .intro.joined {
@@ -3686,4 +3686,52 @@ input, select, textarea {
 				transform: none;
 			}
 
+	}
+	
+	.grid-icons {
+		font-size: 60px;
+		text-align: center;
+		display: inline-block;
+	}
+
+	.grid-icons span {
+		font-size: 1.5rem;
+	}
+
+	.grid-container {
+		width: 400px;
+	}
+
+	.project-gifs {
+		/* display: inline-block; */
+		list-style: none;
+		width: 1500px;
+	}
+
+	.project-gifs li img {
+		/* display: inline-block; */
+		border-radius: 5px;
+		margin-top: 15%;
+	}
+
+	.project-gifs li {
+		display: inline-block;
+	}
+
+	.project-gifs h4 {
+		width: 510px;
+	}
+
+	.aa-gif-ul {
+		list-style: none;
+		padding-left: 15%;
+	}
+
+	#aa-gif {
+		border-radius: 5px;
+		margin-top: 7%;
+	}
+
+	.aa-gif-ul h4 {
+		width: 510px;
 	}
