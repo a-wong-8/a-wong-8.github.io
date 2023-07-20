@@ -3718,7 +3718,7 @@ input, select, textarea {
 		display: inline-block;
 	}
 
-	.project-gifs h4 {
+	.project-gifs p {
 		width: 510px;
 	}
 
@@ -3732,6 +3732,41 @@ input, select, textarea {
 		margin-top: 7%;
 	}
 
-	.aa-gif-ul h4 {
+	.aa-gif-ul p {
 		width: 500px;
+	}
+
+	.dontrip-gif {
+		list-style: none;
+	}
+
+	.dontrip-gif img {
+		border-radius: 5px;
+	}
+
+	.dontrip-gif p {
+		width: 500px;
+	}
+
+	.dontrip-gif {
+		padding-left: 15%;
+	}
+
+	#me {
+		height: 200px;
+		border-radius: 70px;
+		margin-top: 100px;
+	}
+
+	.me-container a {
+		border-bottom: none;
+	}
+
+	.me-container li {
+		list-style: none;
+		text-align: center;
+	}
+
+	#contact-icons {
+		font-size: 30px;
 	}
