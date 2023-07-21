@@ -3833,4 +3833,9 @@ input, select, textarea {
 			width: 340px;
 		}
 
+		#resume {
+			padding-left: 10.5%;
+			width: 100px;
+		}
+
 	}
