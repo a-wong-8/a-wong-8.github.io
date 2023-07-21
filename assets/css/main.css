@@ -3838,4 +3838,8 @@ input, select, textarea {
 			width: 100px;
 		}
 
+		#wrapper {
+			width: 420px;
+		}
+
 	}
