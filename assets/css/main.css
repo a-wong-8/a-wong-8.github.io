@@ -3792,12 +3792,17 @@ input, select, textarea {
 		#me {
 			height: 120px;
 			border-radius: 40px;
-			margin-left: 9%;
+			margin-left: 33%;
+		}
+
+		#resume {
+			padding-left: 40%;
+			width: 100px;
 		}
 
 		#contact-icons {
 			width: 100px;
-			margin-left: 9%;
+			margin-left: 34%;
 		}
 
 		.edu-ul {
@@ -3831,11 +3836,6 @@ input, select, textarea {
 
 		.dontrip-gif img {
 			width: 340px;
-		}
-
-		#resume {
-			padding-left: 10.5%;
-			width: 100px;
 		}
 
 		#wrapper {
