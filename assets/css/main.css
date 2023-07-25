@@ -3839,7 +3839,7 @@ input, select, textarea {
 		}
 
 		#wrapper {
-			width: 420px;
+			width: 100vw;
 		}
 
 	}
