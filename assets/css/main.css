@@ -3698,6 +3698,10 @@ input, select, textarea {
 		display: inline-block;
 	}
 
+	.grid-icons li:hover {
+		color:#ffe4b4;
+	}
+
 	.grid-icons span {
 		font-size: 1.5rem;
 	}
@@ -3729,6 +3733,10 @@ input, select, textarea {
 		align-content: center;
 		align-items: center;
 		display: flex;
+	}
+
+	.panel.spotlight.left {
+		width: 880px;
 	}
 
 	.aa-gif-ul {
@@ -3815,7 +3823,11 @@ input, select, textarea {
 
 		.project-gifs img {
 			width: 340px;
-			padding-left: 10px;
+			/* padding-left: 10px; */
+		}
+
+		.project-gifs {
+			margin-left: 10px;
 		}
 
 		.project-gifs p {
