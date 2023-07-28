@@ -3696,6 +3696,7 @@ input, select, textarea {
 		font-size: 60px;
 		text-align: center;
 		display: inline-block;
+		/* position: absolute; */
 	}
 
 	.grid-icons li:hover {
@@ -3786,6 +3787,21 @@ input, select, textarea {
 
 	#contact-icons {
 		font-size: 30px;
+	}
+
+	.popup {
+		display: block;
+		/* display: none; */
+		position: absolute;
+		top: 65%;
+		left: 0;
+		padding: 5px;
+		border-radius: 5px;
+		font-size: 18px;
+	}
+
+	span.popup {
+		font-size: 18px;
 	}
 
 	@media screen and (max-width: 1200px) {
