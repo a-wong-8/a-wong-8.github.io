@@ -3814,6 +3814,14 @@ input, select, textarea {
 		position: absolute;
 	}
 
+	.intro.color2 {
+		width: 850px;
+	}
+
+	.intro.color4 {
+		width: 850px;
+	}
+
 	@media screen and (max-width: 1200px) {
 		.intro p {
 			max-width: 360px;
@@ -3880,4 +3888,9 @@ input, select, textarea {
 			width: 100vw;
 		}
 
+		#top-button-container {
+			bottom: 0;
+			margin-right: 42vw;
+			position: absolute;
+		}
 	}
