@@ -3693,10 +3693,9 @@ input, select, textarea {
 	}
 	
 	.grid-icons {
-		font-size: 60px;
+		font-size: 55px;
 		text-align: center;
 		display: inline-block;
-		/* position: absolute; */
 	}
 
 	.grid-icons li:hover {
@@ -3712,7 +3711,6 @@ input, select, textarea {
 	}
 
 	.project-gifs {
-		/* display: inline-block; */
 		list-style: none;
 		width: 1500px;
 	}
