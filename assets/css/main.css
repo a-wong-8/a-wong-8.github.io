@@ -3820,10 +3820,13 @@ input, select, textarea {
 		width: 850px;
 	}
 
-	#sentiment-div {
+	#sentiment-div img {
 		width: 480px;
 		height: 268px;
-		overflow-y: scroll;
+	}
+
+	#sentiment-page {
+		background-color: lightblue;
 	}
 
 	@media screen and (max-width: 1200px) {
@@ -3915,7 +3918,7 @@ input, select, textarea {
 			height: auto;
 		}
 
-		#sentiment-div {
-			width: 100%;
+		#sentiment-div img {
+			width: 95%;
 		}
 	}
