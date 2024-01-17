@@ -3820,6 +3820,12 @@ input, select, textarea {
 		width: 850px;
 	}
 
+	#sentiment-div {
+		width: 480px;
+		height: 268px;
+		overflow-y: scroll;
+	}
+
 	@media screen and (max-width: 1200px) {
 		.intro p {
 			max-width: 360px;
@@ -3907,5 +3913,9 @@ input, select, textarea {
 		.image.filtered.span-1-75 {
 			width: 20vw;
 			height: auto;
+		}
+
+		#sentiment-div {
+			width: 100%;
 		}
 	}
