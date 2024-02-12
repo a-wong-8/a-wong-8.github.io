@@ -3826,6 +3826,14 @@ input, select, textarea {
 		background-color: lightblue;
 	}
 
+	#youtube-page {
+		background-color: #e1e6e1bb;
+	}
+
+	iframe {
+		border-radius: 5px;
+	}
+
 	@media screen and (max-width: 1200px) {
 		.intro p {
 			max-width: 360px;
@@ -3917,5 +3925,10 @@ input, select, textarea {
 
 		#sentiment-div img {
 			width: 95%;
+		}
+
+		iframe {
+			width: 95%;
+			border-radius: 5px;
 		}
 	}
