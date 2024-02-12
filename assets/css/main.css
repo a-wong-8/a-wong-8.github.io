@@ -3754,6 +3754,7 @@ input, select, textarea {
 
 	.dontrip-gif {
 		list-style: none;
+		padding-left: 15%;
 	}
 
 	.dontrip-gif img {
@@ -3762,10 +3763,6 @@ input, select, textarea {
 
 	.dontrip-gif p {
 		width: 500px;
-	}
-
-	.dontrip-gif {
-		padding-left: 15%;
 	}
 
 	#me {
