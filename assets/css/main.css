@@ -3830,6 +3830,10 @@ input, select, textarea {
 		background-color: #e1e6e1bb;
 	}
 
+	#cfs-page {
+		background-color: #c8caeb;
+	}
+
 	iframe {
 		border-radius: 5px;
 	}
