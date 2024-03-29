@@ -3936,7 +3936,6 @@ input, select, textarea {
 
 		iframe {
 			width: 95%;
-			height: auto;
 			border-radius: 5px;
 		}
 	}
