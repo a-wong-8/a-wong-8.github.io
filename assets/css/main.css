@@ -3826,8 +3826,12 @@ input, select, textarea {
 		background-color: lightblue;
 	}
 
-	#youtube-page {
+	#heatmap-page {
 		background-color: #e1e6e1bb;
+	}
+
+	#youtube-page {
+		background-color: #f0c1c1bb;
 	}
 
 	#cfs-page {
