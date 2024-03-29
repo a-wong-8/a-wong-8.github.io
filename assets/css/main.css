@@ -3876,9 +3876,7 @@ input, select, textarea {
 		}
 
 		.project-gifs img {
-			/* width: 340px; */
 			width: 95%;
-			/* padding-left: 10px; */
 		}
 
 		.project-gifs {
@@ -3933,10 +3931,12 @@ input, select, textarea {
 
 		#sentiment-div img {
 			width: 95%;
+			height: auto;
 		}
 
 		iframe {
 			width: 95%;
+			height: auto;
 			border-radius: 5px;
 		}
 	}
